@@ -1,14 +1,12 @@
-# fivenightsatzenix-advance
-"Repositorio de desarrollo y seguimiento de avances para Five Nights at Zenix, un juego indie de terror desarrollado en Godot Engine."
-
 # Five Nights at Zenix - Advance
 
-Avance y seguimiento de desarrollo del juego de terror **Five Nights at Zenix**, desarrollado en **Godot Engine**.
+Avance y seguimiento de desarrollo del juego indie de terror **Five Nights at Zenix**, desarrollado en **Godot Engine**.
 
-Desarrollado por **Zenix Games**, [Zenix Game en YouTube](https://www.youtube.com/@Josel_012?app=desktop) 
---- basado en la serie original de **Zenix Animation**.
+Desarrollado por **Zenix Games** | [Canal de Zenix Games en YouTube](https://www.youtube.com/@Josel_012?app=desktop)  
+Basado en la serie original de **Zenix Animation**.
 
-🎬 **Canal oficial:** [Zenix Animation en YouTube](https://www.youtube.com/@ZenixAnimation) 
+🎬 **Canal oficial:** [Zenix Animation en YouTube](https://www.youtube.com/@ZenixAnimation)
+
 ---
 
 ## 📌 Estado del Proyecto
@@ -22,15 +20,15 @@ Desarrollado por **Zenix Games**, [Zenix Game en YouTube](https://www.youtube.co
 
 ## 👥 Equipo
 * **Dirección / Colaborador Principal:** zenix/sthift
-* **Programador Principal:** Josl012
+* **Programador Principal:** Josel012
 
 ---
 
 ## 💻 Ejemplos de Código / Lógica del Juego
 
 ### Control de Iluminación y Puertas
-> Oficina
-> Camaradel jugador,Luces,puertas
+> Oficina, Cámara del jugador, Luces, Puertas
+
 ```gdscript
 extends Node2D
 
