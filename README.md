@@ -31,7 +31,7 @@ Basado en la serie original de **Zenix Animation**.
 
 ```gdscript
 extends Node2D
-
+#
 var izq:bool = false
 var der:bool = false
 var puertaIzq:bool = false
