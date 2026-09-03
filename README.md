@@ -2,7 +2,7 @@
 
 Avance y seguimiento de desarrollo del juego indie de terror **Five Nights at Zenix**, desarrollado en **Godot Engine**.
 
-Desarrollado por **Zenix Games** | [Canal de Zenix Games en YouTube](https://www.youtube.com/@Josel_012?app=desktop)  
+Desarrollado por **Zenix Games** | [Canal de Zenix Games en YouTube](https://www.youtube.com/@zenixgames-jzf)  
 Basado en la serie original de **Zenix Animation**.
 
 🎬 **Canal oficial:** [Zenix Animation en YouTube](https://www.youtube.com/@ZenixAnimation)
